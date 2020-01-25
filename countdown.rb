@@ -8,5 +8,7 @@ def countdown(n)
 end
   
 def countdown_with_sleep(n)
-  n=
+  n = 5
+  until n == 0
+    
 end
