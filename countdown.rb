@@ -1,5 +1,5 @@
 def countdown(n)
-  n = 12
+  n = 10
   while n > 0
     puts "#{n} SECOND(S)!"
     n -= 1
